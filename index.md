@@ -37,7 +37,7 @@ I have production experience building products using Ruby, Rails, RSpec, Postgre
     - Shaved as much as 90% off of the time it takes to run unit tests
     - Enabled first day commits for new developers by automating developer setup with docker-compose
     - Drastically improved the redis memory needs of our asynchronous profiler
-    - Standardised coding standards to speed up developer review process
+    - Implemented coding standards to speed up developer review process
     - Helped SRE team migrate from Amazon EC2 to ECS, Codebuild and Codepipeline
 
 `January 2015 - January 2018`
