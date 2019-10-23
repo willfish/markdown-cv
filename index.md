@@ -117,7 +117,7 @@ Java
 `2010 - 2011`
 **King's College London, London**, MSc Philosophy of Psychiatry (2.1)
 
-`2007 - 2009`
+`2007 - 2010`
 **Swansea University**, BSc Psychology (2.1)
 
 ## FRAMEWORKS
