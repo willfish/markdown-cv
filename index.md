@@ -17,7 +17,7 @@ Software Engineer
 I am a senior software engineer with experience in Insurance and Fintech startups
 specialising in telematics, behavioural profiling and e-commerce. I am passionate about
 delivering well-tested and good quality code and I am a fast learner. I am a good communicator
-and prefer to resolve problems as a team. I like simple code that others are happy to read and
+and am happy to resolve problems as a team. I like simplicity in code that others are happy to read and
 extend. I am interested in developing my knowledge of modern programming languages and infrastructure
 tools and am keen on developing skills using modern javascript frameworks including React and Vue.
 
@@ -51,6 +51,7 @@ Java
     - Speaking with customers about integrations and requirements
     - Understanding and aligning with product owner on technical priorities in the backlog
     - Keeping aligned with overarching business goals
+    - Running daily standups, leading refinements and facilitating retrospectives
   - _Achievements_
     - Upgraded projects from Rails 4 to Rails 5
     - Sped up unit testing in Jenkins ci by as much as 90% 
