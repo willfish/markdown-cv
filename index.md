@@ -56,7 +56,7 @@ Java
     - Sped up unit testing in Jenkins ci by as much as 90% 
     - Enabled first day commits for new developers by improving workflow
     - Implemented coding standards to speed up developer review process
-    - Helped SRE team migrate from EC2 to ECS, Codebuild and Codepipeline
+    - Worked with SRE team to migrate from EC2 to ECS, Codebuild and Codepipeline
   - _Key Technologies_
     - Ruby, Rails, Postgres, Redis, AWS, Terraform, Docker, Jenkins
 
