@@ -16,10 +16,10 @@ Software Engineer
 
 I am a senior software engineer with experience in Insurance and Fintech startups
 specialising in telematics, behavioural profiling and e-commerce. I am passionate about
-delivering well-tested and good quality code. I am a good communicator and resolve problems
-as a team. I prefer simple code that others are happy to read and extend. I am interested in
-developing my knowledge of modern programming languages and infrastructure tools and am
-keen on developing skills using modern javascript frameworks like React and Vue.
+delivering well-tested and good quality code and am a fast learner. I am a good communicator
+and prefer resolve problems as a team. I prefer simple code that others are happy to read and
+extend. I am interested in developing my knowledge of modern programming languages and infrastructure
+tools and am keen on developing skills using modern javascript frameworks like React and Vue.
 
 ## SUMMARY
 
@@ -29,7 +29,7 @@ Ruby, Rails, RSpec, Cucumber, Chef, Terraform, Git
 Postgres, Javascript, AWS, Redis
 `Intermediate (5 years)`
 
-Linux
+Linux, Bash
 `Intermediate (6 years)`
 
 Elixir, Phoenix, Absinthe, Docker
@@ -37,6 +37,9 @@ Elixir, Phoenix, Absinthe, Docker
 
 C++, C
 `Beginner (5 year)`
+
+Java
+`Beginner (1 year)`
 
 ## EXPERIENCE
 
@@ -50,44 +53,47 @@ C++, C
     - Keeping aligned with overarching business goals
   - _Achievements_
     - Upgraded projects from Rails 4 to Rails 5
-    - Sped up unit testing in ci by as much as 90% 
+    - Sped up unit testing in Jenkins ci by as much as 90% 
     - Enabled first day commits for new developers
     - Implemented coding standards to speed up developer review process
     - Helped SRE team migrate from EC2 to ECS, Codebuild and Codepipeline
-    - Built push notification api to enable more efficient communications with 
 
 `January 2015 - January 2018`
 **Software Engineer**, MyDrive Solutions Ltd, London
   - _Responsibilities_
-    - Working on MyDrive's API, Profiler and Insurers Portal products
-    - Customer support and pager rotas
-    - Working with mobile engineers to get end-to-end features working for customers
+    - Building api and customer support portal services in Ruby, Rails, Postgres and Redis
+    - Adding features to behavioural profiler in Ruby and C++
+    - Working with mobile engineers to get end-to-end features working for insurer customers
   - _Achievements_
     - Wrote tooling for performance benchmarking different infrastructure and project configurations
     - Built cassandra infrastructure from scratch with chef as part of a migration
     - Converted our Rails apps to follow 12-factor principles (https://12factor.net) and dockerised our Rails apps for production and ci
     - 100% code test coverage of all new code
     - Large refactor of reporting service
-    - Defined and implemented entire end-to-end testing process to validate changes to algorithms
+    - Defined and implemented end-to-end testing project in Ruby and RSpec preventing many outages/bugs
 
 `July 2014 - January 2015`
 **Linux Systems Administrator**, MyDrive Solutions Ltd, London
   - _Responsibilities_
-    - Keeping the lights on
-    - Rolling new infrastructure services based on product need
-    - Out of hours support and pager rota
+    - Configuring new infrastructure services needed by our apps (i.e. exposing logs in an ELK stack)
+    - Permissions management in AWS IAM
+    - Onboarding new customers and building their infrastructure in AWS
+    - Boostrapping servers with bash and chef
   - _Achievements_
-    - Implemented a process for validating map database changes
-    - Migrated chef code to a more modular/easily maintained pattern
+    - Implemented a process for validating map database updates
+    - Migrated chef code to be more modular/easily maintainable
 
 `December 2013 - July 2014`
 **Linux Systems Administrator**, Powa Technologies Ltd, London
   - _Responsibilities_
     - Maintaining infrastructure
-    - Resolving live issues
-    - Supporting developers
+    - Resolving live issues (especially during deployment windows)
+    - Supporting developers with access to systems and data
+    - Extending reports in Java
   - _Achievements_
     - Migrating from manual to automated deployment processes
+    - Migrating legacy products from Rackspace to AWS
+    - Resolving complex issues with our backup infrastructure
 
 ## CERTIFICATIONS
 
