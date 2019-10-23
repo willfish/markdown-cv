@@ -17,9 +17,9 @@ Software Engineer
 I am a senior software engineer with experience in Insurance and Fintech startups
 specialising in telematics, behavioural profiling and e-commerce. I am passionate about
 delivering well-tested and good quality code and am a fast learner. I am a good communicator
-and prefer resolve problems as a team. I prefer simple code that others are happy to read and
+and prefer to resolve problems as a team. I like simple code that others are happy to read and
 extend. I am interested in developing my knowledge of modern programming languages and infrastructure
-tools and am keen on developing skills using modern javascript frameworks like React and Vue.
+tools and am keen on developing skills using modern javascript frameworks including React and Vue.
 
 ## SUMMARY
 
