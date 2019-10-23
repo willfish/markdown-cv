@@ -36,7 +36,7 @@ Elixir, Phoenix, Absinthe, Docker
 `Intermediate (1 year)`
 
 C++, C
-`Beginner (5 year)`
+`Beginner (5 years)`
 
 Java
 `Beginner (1 year)`
