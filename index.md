@@ -24,16 +24,16 @@ tools and am keen on developing skills using modern javascript frameworks includ
 ## SUMMARY
 
 Ruby, Rails, RSpec, Cucumber, Chef, Terraform, Git
-`Advanced (5 years)`
+`Expert (5 years)`
 
 Postgres, Javascript, AWS, Redis
-`Intermediate (5 years)`
+`Advanced (5 years)`
 
 Linux, Bash
-`Intermediate (6 years)`
+`Advanced (6 years)`
 
 Elixir, Phoenix, Absinthe, Docker
-`Intermediate (1 year)`
+`Advanced (1 year)`
 
 C++, C
 `Beginner (5 year)`
