@@ -49,7 +49,7 @@ Java
     - Supporting and educating team members
     - Mentoring junior developers
     - Speaking with customers about integrations and requirements
-    - Consulting with product owner on technical priorities in the backlog
+    - Understanding and aligning with product owner on technical priorities in the backlog
     - Keeping aligned with overarching business goals
   - _Achievements_
     - Upgraded projects from Rails 4 to Rails 5
