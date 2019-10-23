@@ -46,7 +46,7 @@ Java
 `January 2018 - now`
 **Senior Software Engineer**, MyDrive Solutions Ltd, London
   - _Responsibilities_
-    - Supporting and educating team members
+    - Supporting and providing relevant training for team members
     - Mentoring junior developers
     - Speaking with customers about integrations and requirements
     - Understanding and aligning with product owner on technical priorities in the backlog
@@ -65,13 +65,13 @@ Java
   - _Responsibilities_
     - Building api and customer support portal services in Ruby, Rails, Postgres and Redis
     - Adding features to behavioural profiler in Ruby and C++
-    - Working with mobile engineers to get end-to-end features working for insurer customers
+    - Working closely with mobile engineers on end-to-end features implementation
   - _Achievements_
     - Wrote tooling for performance benchmarking different infrastructure and project configurations
     - Built cassandra infrastructure from scratch with chef as part of a migration
     - Converted our Rails apps to follow 12-factor principles (https://12factor.net) and dockerised our Rails apps for production and ci
     - 100% code test coverage of all new code
-    - Large refactor of reporting service
+    - Major refactor of reporting service
     - Defined and implemented end-to-end testing project in Ruby and RSpec preventing many outages/bugs
   - _Key Technologies_
     - Ruby, Rails, Postgres, Redis, AWS, Terraform, Jenkins
