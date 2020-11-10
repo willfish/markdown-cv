@@ -14,7 +14,7 @@ Software Engineer
 
 ## ABOUT ME
 
-I am a senior software engineer with experience in Insurance and Fintech startups
+I am a senior software engineer with experience in Public Services and Insurance and Fintech startups
 specialising in telematics, behavioural profiling and e-commerce. I am passionate about
 delivering well-tested and good quality code and I am a fast learner. I am a good communicator
 and am happy to resolve problems as a team. I like simplicity in code that others are happy to read and
@@ -24,7 +24,7 @@ tools and am keen on developing skills using modern javascript frameworks includ
 ## SUMMARY
 
 Ruby, Rails, RSpec, Cucumber
-`Expert (5 years)`
+`Expert (6 years)`
 
 Linux, Bash, Git, Chef
 `Advanced (6 years)`
@@ -32,11 +32,10 @@ Linux, Bash, Git, Chef
 Terraform
 `Advanced (4 years)`
 
-
 Postgres, Javascript, AWS, Redis
 `Intermediate (5 years)`
 
-Elixir, Phoenix, Absinthe, Docker
+Elixir, Phoenix, Absinthe, Docker, Python, Rust
 `Intermediate (1 year)`
 
 C++, C
@@ -47,7 +46,28 @@ Java
 
 ## EXPERIENCE
 
-`January 2018 - now`
+`April 2020 - now`
+**Software Engineer**, Ministry of Justice (Contract)
+  - Achievements
+    - Designed and built an improved event log
+    - Significantly improved the flexibility of our reporting process making MoJ hub happy
+    - Resolved a large architectural issue with the service design
+    - Implemented versioning to support non-disruptive supplier integrations
+    - Upgraded Rails and Ruby and multiple gems continually
+  - Key Technologies
+    - Ruby, Rails, PostGres, RSpec, Swagger, json:api, Docker, AWS S3, Kubernetes
+
+`November 2019 - April 2020`
+**Senior Software Engineer**, Impero Software (Contract)
+  - Achievements
+    - Significantly improved our server configuration and deployment times
+    - Added integration testing for all configuration management manifests in Puppet
+    - Significantly improved test coverage in the existing web application
+    - Upskilled the team in testing principles and practice
+  - Key Technologies
+    - Ruby, Rails, RSpec, Mariadb, Puppet, NGinx, Docker, Azure
+
+`January 2018 - October 2019`
 **Senior Software Engineer**, MyDrive Solutions Ltd, London
   - _Responsibilities_
     - Supporting and providing relevant training for team members
